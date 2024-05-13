@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course Chem 1A"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "UC Berkeley, Chemistry Department"
-date: 2023
+date: 2023-08-24
 #location: "City, Country"
 ---
